@@ -8,5 +8,6 @@
 <body>
     <h1>Hello, World!</h1>
     <p>Welcome to the hello page.</p>
+    Maybe later we will add more content here.
 </body>
 </html> 
